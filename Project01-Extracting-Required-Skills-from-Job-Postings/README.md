@@ -3,7 +3,7 @@
 ## Objective
 This project focuses on extracting and categorizing required skills from job descriptions using **spaCy’s Named Entity Recognition (NER)** and **NLTK preprocessing**. The goal is to identify trends in job requirements and analyze the most in-demand skills across various industries.
 
-## ??? Tools & Libraries
+## Tools & Libraries
 - **Python**
 - **NLTK** (Natural Language Toolkit) for text preprocessing
 - **spaCy** for Named Entity Recognition (NER)
