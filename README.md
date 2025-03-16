@@ -9,7 +9,7 @@ Each project focuses on a specific NLP task, and the code, datasets, and results
 
 ## Projects
 
-### [Project 01: Extracting Required Skills from Job Postings](./Project01- Extracting Required Skills from Job Postings)  
+### [Project 01: Extracting Required Skills from Job Postings](./Project01-Extracting-Required-Skills-from-Job-Postings)  
 The first project focuses on extracting required skills from job postings using NLP techniques. This includes text preprocessing, keyword extraction, and analysis.  
 
 ---
