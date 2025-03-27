@@ -42,5 +42,5 @@ Analyze semantic similarity between news articles using NLP techniques (GloVe em
 3. **Healthcare Policy** (`u.s.`, `republicans`, `care`)  
 4. **Entertainment** (`film`, `star`, `awards`)  
 
-![PCA Clusters](download_(2).png)  
+![PCA Clusters](download.png)  
 *PCA-reduced article clusters (k=4) with partial overlap. Colors represent clusters, and red "X" marks denote centroids.*
