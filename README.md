@@ -10,7 +10,10 @@ Each project focuses on a specific NLP task, and the code, datasets, and results
 ## Projects
 
 ### [Project 01: Extracting Required Skills from Job Postings](./Project01-Extracting-Required-Skills-from-Job-Postings)  
-The first project focuses on extracting required skills from job postings using NLP techniques. This includes text preprocessing, keyword extraction, and analysis.  
+The first project focuses on extracting required skills from job postings using NLP techniques. This includes text preprocessing, keyword extraction, and analysis.
+
+### [Project 02: News Article Similarity Analysis](./Project02-News-Article-Similarity-Analysis)  
+This project Group similar news articles using GloVe embeddings, PCA, and K-Means clustering.  
 
 ---
 
@@ -22,6 +25,8 @@ The first project focuses on extracting required skills from job postings using 
 - **Transformers**
 - **Pandas**
 - **Scikit-learn**
+- **GloVe Embeddings**
+- **Plotly** (Interactive Visualizations)
 
 ---
 
